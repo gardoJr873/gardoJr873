@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gardoJr873
 - 👀 I’m interested in philosophy, religion, music, art, the natural and physical sciences, world history, mechanical engineering etc... pretty much anything that cultivates our higher faculties.  
 - 🌱 I’m currently learning javascript, html, css and java as well as learning how to use IDEs like eclipse and visual studio.  
-- 💞️ I’m looking to collaborate on new simple projects at the moment; I am failry new to programming/coding.  I am a dental assitant at the moment with 10+ yrs of experience in dentistry so I am really interested in and planning on getting involved in software development for this particular field.   
+- 💞️ Failry new to programming/coding.  Current registered dental assitant at the moment with 10+ yrs of experience in dentistry, really interested in developing software development skills to continue to contribute to this field through another medium.   
 
 <!---
 gardoJr873/gardoJr873 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
